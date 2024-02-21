@@ -1,0 +1,5 @@
+-- INSERT INTO movies (movie_id, name) VALUES (1, 'Pirates of the Caribbean');
+-- INSERT INTO movies (movie_id, name) VALUES (2, 'Frozen');
+-- INSERT INTO movies (movie_id, name) VALUES (3, 'Terminator');
+-- INSERT INTO movies (movie_id, name) VALUES (4, 'Shrek');
+-- INSERT INTO movies (movie_id, name) VALUES (5, 'Finding Nemo');

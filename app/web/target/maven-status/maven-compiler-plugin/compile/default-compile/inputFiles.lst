@@ -1,0 +1,13 @@
+/Users/isc90371/Developer/java/java-moviesapi/app/web/src/main/java/com/codingmill/moviesapi/web/mappers/MovieMapper.java
+/Users/isc90371/Developer/java/java-moviesapi/app/web/src/main/java/com/codingmill/moviesapi/web/exception/MoviesAPITechnicalException.java
+/Users/isc90371/Developer/java/java-moviesapi/app/web/src/main/java/com/codingmill/moviesapi/web/exception/MovieNotCreatedException.java
+/Users/isc90371/Developer/java/java-moviesapi/app/web/src/main/java/com/codingmill/moviesapi/web/model/MovieCreationDTO.java
+/Users/isc90371/Developer/java/java-moviesapi/app/web/src/main/java/com/codingmill/moviesapi/web/exception/MovieNotDeletedException.java
+/Users/isc90371/Developer/java/java-moviesapi/app/web/src/main/java/com/codingmill/moviesapi/MoviesAPIApplication.java
+/Users/isc90371/Developer/java/java-moviesapi/app/web/src/main/java/com/codingmill/moviesapi/web/controller/HelloWorldController.java
+/Users/isc90371/Developer/java/java-moviesapi/app/web/src/main/java/com/codingmill/moviesapi/web/model/MovieError.java
+/Users/isc90371/Developer/java/java-moviesapi/app/web/src/main/java/com/codingmill/moviesapi/web/services/MovieService.java
+/Users/isc90371/Developer/java/java-moviesapi/app/web/src/main/java/com/codingmill/moviesapi/web/controller/MoviesController.java
+/Users/isc90371/Developer/java/java-moviesapi/app/web/src/main/java/com/codingmill/moviesapi/web/model/MovieDTO.java
+/Users/isc90371/Developer/java/java-moviesapi/app/web/src/main/java/com/codingmill/moviesapi/web/exception/MovieNotFoundException.java
+/Users/isc90371/Developer/java/java-moviesapi/app/web/src/main/java/com/codingmill/moviesapi/web/exception/MovieControllerAdvice.java

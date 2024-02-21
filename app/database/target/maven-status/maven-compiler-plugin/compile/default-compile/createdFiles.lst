@@ -1,0 +1,3 @@
+com/codingmill/moviesapi/database/entities/Movie.class
+com/codingmill/moviesapi/database/repositories/MovieRepository.class
+com/codingmill/moviesapi/database/DBDefaults.class

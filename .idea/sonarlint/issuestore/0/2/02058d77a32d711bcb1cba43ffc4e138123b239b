@@ -1,0 +1,9 @@
+
+^
+java:S1128"HRemove this unused import 'com.codingmill.moviesapi.web.model.MovieDTO'.(¸Ò¥–
+j
+java:S1128"ORemove this unused import 'com.codingmill.moviesapi.web.services.MovieService'.(´ÉÆíûÿÿÿÿ
+a
+java:S1128"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—Öùÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ

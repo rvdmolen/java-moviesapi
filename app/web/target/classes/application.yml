@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: MoviesAPI
+  datasource:
+    driverClassName: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5438/movies
+    username: postgres
+    password: postgres
+  jpa:
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+    generate-ddl: true
+    show-sql: true
+    defer-datasource-initialization: true
+    database: postgresql
+    hibernate:
+      ddl-auto: create
+  sql:
+    init:
+      platform: postgresql
+      mode: always

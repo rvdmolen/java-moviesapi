@@ -1,0 +1,13 @@
+com/codingmill/moviesapi/web/mappers/MovieMapper.class
+com/codingmill/moviesapi/web/model/MovieCreationDTO.class
+com/codingmill/moviesapi/web/model/MovieDTO.class
+com/codingmill/moviesapi/web/model/MovieError.class
+com/codingmill/moviesapi/web/controller/HelloWorldController.class
+com/codingmill/moviesapi/web/exception/MoviesAPITechnicalException.class
+com/codingmill/moviesapi/web/services/MovieService.class
+com/codingmill/moviesapi/web/controller/MoviesController.class
+com/codingmill/moviesapi/web/exception/MovieNotCreatedException.class
+com/codingmill/moviesapi/web/exception/MovieControllerAdvice.class
+com/codingmill/moviesapi/MoviesAPIApplication.class
+com/codingmill/moviesapi/web/exception/MovieNotFoundException.class
+com/codingmill/moviesapi/web/exception/MovieNotDeletedException.class

@@ -1,0 +1,22 @@
+### Test endpoint
+GET http://localhost:8080/hello-world
+
+### Get all Movies
+GET http://localhost:8080/movies
+
+### Get movie
+GET http://localhost:8080/movies/0c22861f-5315-4975-a46e-5ae1c2c1da52
+
+### Movie Not found
+GET http://localhost:8080/movies/66
+
+### Create Movie
+POST http://localhost:8080/movies/create
+Content-Type: application/json
+
+{
+  "name": "test movie 4"
+}
+
+### Movie Delete
+DELETE http://localhost:8080/movies/delete/0c22861f-5315-4975-a46e-5ae1c2c1da52
